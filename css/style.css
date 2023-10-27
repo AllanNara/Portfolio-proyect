@@ -20,9 +20,9 @@ nav ul li {
   margin-right: 10px;
 }
 
-nav ul li:first-child {
-  margin-right: 1000px;
-}
+/* nav ul li:first-child {
+  margin-right: 100px;
+} */
 
 main {
   text-align: center;
